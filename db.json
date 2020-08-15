@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "ile7nbs9e",
+      "name": "BÔNIKIE",
+      "cate": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-c132f.appspot.com/o/images%2Fpic3.jpg?alt=media&token=4249c3d6-09fd-4351-bc4c-7e17dbd630d0",
+      "price": "230.000",
+      "sale": "120.000",
+      "status": "Còn",
+      "desc": ""
+    },
+    {
+      "id": "2z1pj5ony",
+      "name": "NIKE TA",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-c132f.appspot.com/o/images%2Fpic4.jpg?alt=media&token=80f6df45-e972-4ac9-bbee-445a0b1657e4",
+      "price": "200.000",
+      "sale": "100.000",
+      "status": "Còn",
+      "desc": ""
+    },
+    {
+      "id": "g2yv28a01",
+      "name": "MOKIGA",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-c132f.appspot.com/o/images%2Fpic5.jpg?alt=media&token=63c6941a-fe3e-42ff-a47d-0b537dbe01f5",
+      "price": "1400.000",
+      "sale": "1300.000",
+      "status": "Còn",
+      "desc": ""
+    },
+    {
+      "id": "333f4oovj",
+      "name": "VILYSINA",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-c132f.appspot.com/o/images%2Fpic6.jpg?alt=media&token=61c7a498-dfd8-4251-b0f6-74a4b9b0e212",
+      "price": "340.000",
+      "sale": "240.000",
+      "status": "Còn",
+      "desc": ""
+    },
+    {
+      "id": "t0ji43116",
+      "name": "HIKILALY",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-c132f.appspot.com/o/images%2Fpic7.jpg?alt=media&token=84965b12-3674-4086-82c9-e53c3c355b4f",
+      "price": "259.000",
+      "sale": "230.000",
+      "status": "Còn",
+      "desc": ""
+    },
+    {
+      "id": "iavkzy3wc",
+      "name": "FALITAKEY",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-c132f.appspot.com/o/images%2Fpic.jpg?alt=media&token=18faba3e-3938-4939-8cdd-25d4b9d36eb3",
+      "price": "350.000",
+      "sale": "270.000",
+      "status": "Hết",
+      "desc": ""
+    },
+    {
+      "id": "j96506ivn",
+      "name": "hi",
+      "cate": "y0dj9odol",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-c132f.appspot.com/o/images%2Fpi5.jpg?alt=media&token=aaecc663-1b99-4cec-8e72-dc4dc1acba83",
+      "price": "7777",
+      "sale": "2222",
+      "status": "Hết",
+      "desc": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "i2goa07pw",
+      "name": "Kính nam"
+    },
+    {
+      "id": "zswe19eva",
+      "name": "Kính nữ"
+    },
+    {
+      "id": "y0dj9odol",
+      "name": "trẻ em"
+    }
+  ]
+}
